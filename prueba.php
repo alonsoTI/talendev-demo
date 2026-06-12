@@ -112,7 +112,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <div class="card">
           <div class="card-body">
-            <h2 class="h5 mb-3">Formulario de registro</h2>
+            <h2 class="h5 mb-3">Formulario de registro de alumnos</h2>
 
             <?php if (!empty($errors)): ?>
               <div class="alert alert-danger">
@@ -162,7 +162,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <div class="col-lg-6">
         <div class="card">
           <div class="card-body">
-            <h3 class="h6">Usuarios registrados (demo)</h3>
+            <h3 class="h6">Usuarios registrados Talendev-Academy</h3>
             <p class="text-muted small">Lista simple leída desde <code>users.json</code>. No mostrar en producción.</p>
             <ul class="list-group">
               <?php
