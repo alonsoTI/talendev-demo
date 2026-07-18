@@ -96,7 +96,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body class="bg-light">
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-      <a class="navbar-brand" href="#">Demo PHP</a>
+      <a class="navbar-brand" href="#">Demo PHP Talendev - Azure Fundamentals</a>
     </div>
   </nav>
 
