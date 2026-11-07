@@ -2,6 +2,7 @@
 // demo.php
 // Demo simple: "Hola Mundo" + formulario de registro con Bootstrap
 // Uso: coloca este archivo en un servidor PHP (Apache, Nginx + PHP-FPM).
+// Aplicación de prueba
 session_start();
 
 // Ruta simple para almacenar usuarios (solo demo). No usar en producción sin revisar seguridad.
